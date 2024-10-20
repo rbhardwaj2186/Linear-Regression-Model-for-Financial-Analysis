@@ -2,7 +2,9 @@
  This project involves applying linear regression models to financial data to analyze stock returns and their relationship with market premiums, enhancing investment decision-making through detailed statistical evaluation.
 
  ![images (1)](htt![Screenshot (3608)](https://github.com/user-attachments/assets/9d3756ea-fb9a-4ed4-b057-e702cac5ccb3)
-ps://github.com/rbhardwaj2186/Linear-Regression-Model-for-Financial-Analysis/assets/143745073/65e4847e-ce51-4a55-a007-5ea208730134)
+
+ 
+
 
 
 # Linear Regression Model for Financial Analysis
